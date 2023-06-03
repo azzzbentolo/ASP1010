@@ -576,50 +576,548 @@ There are several types of binaries:
 
 ![binary](binary.png)
 
+<br>
+
+___
+___
+
+<br>
+
+## **STELLAR MASSES**
+
+### **Range of Stellar Masses**
+Mass that stars ranges from
+$$0.1 M_\text{sun} \leq M_\text{sun} \leq 100 M_\text
+{sun}$$ 
+
+**Minimum**
+- A star is something that generates energy by fusion
+- If the temperature is too low, then there is no fusion
+- Need $M \geq M_\text{sun}$
+- Any lower and it is a "brown dwarf"
+
+**Maximum**
+- As stars get bigger they get hotter
+- If too hot they cannot remain stable
+- High energy photons make this impossible
+- Stars lose mass rapidly through strong pulsations
+- We need $M \leq 100 M_\text{sun}$
+
+<br>
+
+___
+___
+
+<br>
+
+## **STELLAR LUMINOUSITIES**
+
+### **Mass-Luminosity Relation**
+
+$$L \propto M^4$$
+
+For some constant $k$ we have:
+$$L = kM^4$$
+
+And hence
+$$\frac{L}{L_\text{sun}} = (\frac{M}{M_\text{sun}})^4$$
+
+<br>
+
+___
+___
+
+<br>
+
+## **PARALLAX FOR NEARBY STARS**
+
+![parallax](parallax.png)
+
+### **Parallax Distance Formula**
+$$\tan (p) = \frac{a}{d}$$
+but for small angles (small value of $p$)
+, $\tan (p) \approx p$
+$$p=\frac{a}{d}$$
+
+**$p$ in radian, not degree!!**
+
+**1 parsec represents the distance to a star with parallax of 1 arc second**
+
+<br>
+
+___
+___
+
+<br>
+
+## **CEPHEID VARIABLES**
+
+### **Variable Stars: Cepheids**
+
+![Cepheid](cepheid.png)
+The light curve shows how the brightness changes with time for a typical cepheid variable, with a period of about 6 days.
+
+- Period ranging from about 3 to 50 days
+- Luminosities are about 1000 to 10000 times the solar value
+
+<br>
+
+### **Using Cepheid**
+
+- The pulsation is related to average luminosity
+
+**Period-Luminosity Relation**
+
+$$L_\text{observed} = \frac{L_\text{intrinsic}}{d^2}$$
+
+![Lumi](lumi.png)
+
+- The time the star takes to go through a cycle of luminosity changes is related to the average luminosity of the star. 
+
+<br>
+
+### **How to Use a Cepheid to Measure Distance?**
+1. Find a cepheid variable star and measure its period
+2. Use the period-luminosity relation to calculate the star's luminosity
+3. Measure the star's apparent brighness
+4. Compare the luminosity with the apparent brightness to calculate the distance
+
+<br>
+
+### **Luminosity Classes**
+- Ia: Brightest supergiants
+- Ib: Less luminous supergiants
+- II: Bright giants
+- III: Giants
+- IV: Subgiants (intermediant between giants and main sequence stars)
+- V: Main-sequence stars (dwarfs)
+
+### **Distance Method**
+
+![method](method.png)
+
+<br>
+
+___
+___
+
+<br>
+
+## **PLANETS OURSIDE THE SOLAR SYSTEM**
+
+### **Types of Exoplanet**
+
+![exo](exo.png)
+
+**Many extrasolar planets are very close to their parent stars!**
+
+- Radial velocity and transit methods are more senstitive to parents close to parent stars
+
+<br>
+
+### **Making Gas Giants and Hot Jupiters**
+**Solar System**
+- Stellar wind from young Sun blew volatiles outwards
+- Frost line at 5 AU where water-ice solidified 
+- Fast accretion of large icy planet (~10 $M_\text{Earth}$)
+- Jupiter, Saturn just outside "frost line"
+- Small rocky planets inside
+- Slowly accreting icy planets in outer system (Uranus, Neptune)
+
+**Extrasolar Hot Jupiters**
+- Have extremely high temperatures
+- Gas giant planets similar in size to Jupiter, but have very close orbits to their host stars
+- Short orbital periods
+- Close orbits and high temperatures are believed to be the result of migration
+  - Form farther away from their star abd the migrate inward due to gravitational interactions or other processes
+
+<br>
+
+___
+___
+
+<br>
+
+## **BETWEEN THE STARS: GAS AND DUST IN SPACE**
+
+### **Why is the Sky Blue?**
+- Light enters the atmosphere from the Sun
+- Photons collide with
+  - Gas molecules
+  - Particles of dust
+- Scattering is most efficient when the collisions are between things of similar size
+- Dust particles are about the same size as the wavelength of **BLUE** light
+- So blue scatters all around the sky
+- Hence Sun is more yellow, having lost some of its blue light
+
+<br>
+
+### **The Same Happens in Space**
+
+![Scatter](scatter.png)
+
+**Blue light scattered**
+- Less blue light seen
+- This is known as reddening
+
+**Red light absorbed**
+- Object is reduced in overall intensity
+- Also known as "extinction"
+
+<br>
+
+### **Scattering by Dust**
+
+![scatter1](scatter1.png)
+
+- Interstellar dust scatters blue light more efficiently than red light
+- Making distant stars appear redder and giving clouds of dust near stars a blueish hue
+- Similar process makes the Earth's sky look blue
+
+<br>
+
+### **Infrared VS Optical**
+
+![visible](visible.png)
+
+![infrared](infrared.png)
+
+Interstellar extinction is much smaller at infrared that at visible wavelengths, so the stars behind the cloud become visible in the infrared channel.
+
+<br>
+
+### **Interstellar Dust Grains**
+
+![Grain](grain.png)
+
+<br>
+
+### **Propagating Star Formation**
+
+![form](form.png)
+
+- Star formtion can move progressively through a molecular cloud
+- Oldest group of stars lies to the left of the diagram and has expanded because of the motions of individual stars
+- Eventually disperse and no longer be recognizable as a cluster
+- Youngest group of stars lies to the right
+- Pressure of the hot, ionized gas surrounding these stars compresses the material in the nearby edge of the molecular cloud
+- Initiates the gravitational collapse that will lead to the formation of more stars
+
+<br>
+
+### **Star Formation**
+
+![form](form1.png)
+1. Dense cores form within a molecular cloud
+2. A protostar with a surroundng disk of material forms at the centre of a dense core, accumulating additional material from the molecular cloud through gravitational attraction
+3. Stellar wind breaks out but is confined by the disk to flow out along the two poles of the star
+4. Eventually, wind sweeps away the cloud material and halts the accumulation of additional material, and a newly formed star, surrounded by a disk, becomes observable.
 
 
+<br>
+
+___
+___
+
+<br>
+
+## **FINDING PLANETS AROUND OTHER STARS**
+
+### **Detection Methods**
+
+**1. Direct**
+   - Pictures or spectra of the planets themselves
+  
+**2. Indirect**
+   -  Measurements of stellar properties revealing the effects of orbiting planets
+
+<br>
+
+### **Indirect - The Radial Velocity Method**
+
+![radial](radial2.png)
+
+**Radial Velocity Method: Binary Star**
+
+![binary](binary1.png)
+
+$\lambda = 5231.0$ 
+
+$\triangle \lambda = 3.4$ 
+
+$\frac{\triangle \lambda}{\lambda} = \frac{3.4}{6231.0} = 6.5 x 10^{-4}$ 
+
+$v = \frac{\triangle \lambda}{\lambda}c = 195 km/sec$
+
+<br>
+
+**Understanding the Velocity Curve**
+
+![curve](shift.png)
+
+**Visualize the System**
+
+![system](system.png)
+
+**What can Doppler Shifts Tell Us**
+
+![doppler](doppler.png)
+
+<br>
+
+### **Indirect - The Transit Method**
+
+![transit](transit.png)
+
+As a planet transits, it blocks out some of the light from the star, causing a temporary dimming in the brightness of the star.
+
+1. Out of transit
+2. Transit ingress
+3. Full drop in brightness
+
+<br>
+
+**Transit Photometry**
+
+![photometry](photometry.png)
+
+![transit](transit1.png)
+
+- Measure the light decrease
+- Gives information about size of planet
+- Duration gives information about period
+
+<br>
+
+### **Indirect - Gravitational Microlensing**
+
+![gravitational](pwpia1_06-04.jpg)
+
+- States that the gravitatinal field of a massive object can bend the path of light passing near it
+- The bending of light is what gives rise to gravitational lensing
+
+<br>
+
+___
+___
+
+<br>
+
+## **STELLAR EVOLUTION**
+
+### **Main-Sequence Star Summary**
+
+**High-Mass Star:**
+- High luminosity
+- Short-lived
+- Larger radius
+- Blue
+
+**Low-Mass Star**
+- Low luminosity
+- Long-lived
+- Small radius
+- Orange-Red
+
+<br>
+
+### **Ages**
+- More massive stars burn brighter
+- Higher mass requires higher pressures to support the star
+- This means higher T
+- Burning rate increases rapidly with T
+- More massive = much brighter
+- Lifetimes shorter due to rapid burning
+
+$t \propto \frac{M}{L}$
+
+$t \propto \frac{M}{L} \propto \frac{M}{M^4} \propto M^{-3}$
+
+$t \propto M^{-3}$
+
+$\frac{t}{t_\text{Sun}} = (\frac{M}{M_{Sun}})^{-3}$
+
+<br>
+
+### **Stars on the Main Sequence**
+
+![main](Helium.png)
+
+<br>
+
+### **CNO Cycle for H Burning**
+
+![cno](cno.png)
+
+<br>
+
+### **Shell H Burning: Away from the MS**
+
+**Star Layers during and after the Main Sequence**
+
+![a](a.png)
+During the main sequence, a star has a core where fusion takes place and a much larger envelope that is too cold for fusion.
+
+![b](b.png)
+When the hydrogen in the core is exhausted (made of helium, not hydrogen), the core is compressed by gravity and heats up. The additional heat starts hydrogen fusion in a layer just outside the core.
+
+<br>
+
+### **Main Sequence to the Red Giant Branch**
+
+![main](main.png)
+
+- Solid black lines show the predicted evolution from the main sequence through the red giant or supergiant stage on the H-R diagram.
+- The red line is the zero-age main sequence
+
+<br>
+
+### **Star Clusters**
+
+**Globular Cluster**
+![globular](globular.png)
+- Large, old, million stars
+- Formed early in the galaxy'shistory
+- Tightly packed and gravitationally bound
+- Found in the outskirts of galaxies, mostly in halo and central bulge
+
+**Open Cluster**
+![open](open.png)
+- Irregular or loosely bound shape
+- Relatively young, typically a few million years old
+- Less tightly packed and not strongly bound
+- Found mainly in the disk of galaxies (and spiral arm)
+
+**Stellar Association**
+![association](association.png)
+- Similar to open clusters, but with larger size and even fewer gravtational bindings
+- Loosely bound and less concentrated compared to open clusters
+- Composed of young stars thta formed in the same region or molecular cloud
+- Found in the spiral arms
+- Typically have low stellar density
+
+<br>
+
+### **HR Diagram as Clusters Age**
+
+![hrd](hrd.png)
+
+<br>
+
+### **Helium Burning**
+
+![he](he1.png)
+- After H burning the core is full of He
+- It contracts and heats
+- Eventually hot enough for He to fuse
+  $$_{2}^{4}\text{He} + _{2}^{4}\text{He} \rightarrow _{4}^{8}\text{Be}$$
+
+  $$_{8}^{2}\text{Be} + _{2}^{4}\text{He} \rightarrow _{6}^{12}\text{C} + 2\gamma$$
+
+  $$_{6}^{12}C + _{2}^{4}He \rightarrow _{8}^{16}O + \gamma$$
+
+<br>
+
+![he](he2.png)
+Once there is some $^{12}C$ then we can make $^{16}O$ via $He$ burning
+
+<br>
+
+### **Fate of the Sun**
+
+![fate](hr1.png)
+
+1. The star evolves from the main sequence to be a red giant
+   - Decreasing surface temperature
+   - Imcreasing in luminosity
+2. Helium flash occurs
+   - Leading to readjustment of the star's internal structure
+3. A brief period of stability
+   - Helium is fused to carbon and oxygen in the core
+   - Star becomes hotter and less luminous than it was as a red giant
+4. Central helium is exhausted
+   - Star becomes a giant again
+   - Moves to higher luminousity and lower temperature
+   - Star has exhausted its inner resources and will soon begin to die
+
+<br>
+
+### **The Death of Low-Mass Stars**
+
+![death](death.png)
+
+- Low mass stars do not get hot enough to burn beyond He (which produces C and O)
+- Stars with $M < 8 M_\text{Sun}$
+- They end their lives at the tip of the giant branch
+- Mass is rapidly lost
+- Mass forms a plenetary nebula
+- The core forms a white dwarf
+
+<br>
+
+### **The Death of Massive Stars**
+
+![massive](massive.png)
+- After $He$ burning the core is composed of $C$ and $O$
+- Massive stars then contract and get hot enough to burn $C$ and $O$ into $S$ and beyond, all the way to iron $Fe$
+- Massive means $M > 8 M_\text{Sun}$
+
+<br>
+
+### **White Dwarf Formation**
+- Near tip of giant branch the envelope is blown off in about 1 million years
+- Leaves just the core which will become the white dwarf
+- Inert $C$ and $O$ core
+  - $H$ and $He$ shell die
+  - Very little weight above them
+  - No need to keep the pressure high
+- No energy from core so it contracts and gets denser and denser
+- Becomes tiny, dense white dwarf
+
+<br>
+
+### **The White Dwarf Limit**
+- White dwarf's mass cannot be more massive than $1.4M_\text{Sun}$
+- As its mass approaches $1.4M\text{Sun}$, the electrons must move at nearly the speed of light
+- This is known as the white dwarf (or Chandrasekhar limit)
+
+![white](white-dwarf.png)
+
+$M_{Ch} = 1.4M_\text{Sun}$
+
+If this mass is exceeded, new form of matter: a neutron star will be formed.
+
+<br>
+
+### **Supernova Explosion (Type II)**
+
+- Eventually the central core exceeds the Chandrasekhar mass
+- The degeneracy pressure goes away because electrons combine with protons, making neutrons and neutrinos
+- Neutrons collapse to the centre, forming a **neutron star**
+- THis explosion expels the outer layers
 
 
+<br>
 
+### **The Death of Massive Stars**
+ ![death](massive-death.png)
 
+<br>
 
+### **Maximum Mass for a Neutron Star**
+Neutron stars are supported by nuclear forces
+- But there is a maximum mass that can support
+- This is the Tolman-Oppenheimer-Volkoff mass $M_{rov} \approx 2.3M_{Sun}$
+- Neutrons are squeezed out of existence
+- A black hole is born
+  
+<br>
 
+### **Pulsars**
 
+A ***pulsar*** is a neutron star that beams radiation along a magnetic axis that is not aligned with the rotation axis
 
+**Pulsar Beans**
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![pulsar](pulsar.png)
+As each beam sweeps over the Earth, light a lighthouse beam sweeping over a distant ship, we see a short pulse of radiation. This model requires that the magnetic poles be located in different places from the rotation poles.
